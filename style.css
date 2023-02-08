@@ -330,7 +330,7 @@ article p{
 
   .img1 {
     /*background-image: url(/img/cropped/porfolio_CD.jpg);*/
-    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(/img/cropped/porfolio_CD.jpg);
+    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(img/cropped/porfolio_CD.jpg);
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: 25% center;
@@ -338,26 +338,26 @@ article p{
 
 .img2 {
      /*background-image: url(/img/cropped/porfolio_CD.jpg);*/
-     background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(/img/porfolio_infografía.jpg);
+     background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(img/porfolio_infografía.jpg);
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: 25% center;
      }
     
 .img3 {
-    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(/img/porfolio_manualMaslow.jpg);
+    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(img/porfolio_manualMaslow.jpg);
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: 25% center;
 }
 .img4 {
-    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(/img/porfolio_jazzing.jpg);
+    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(img/porfolio_jazzing.jpg);
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: 25% center;
 }
 .img5 {
-    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(/img/porfolio_vino.jpg);
+    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(26,23,27,1) 375%), url(img/porfolio_vino.jpg);
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: 25% center;
